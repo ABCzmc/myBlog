@@ -1,0 +1,21 @@
+{
+  "name": "我的博客",
+  "description": "博客",
+  "main": "index.js",
+  "authors": [
+    "ABCzmc <abc11939@163.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "./public/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
